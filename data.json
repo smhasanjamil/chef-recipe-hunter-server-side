@@ -1,14 +1,15 @@
 [
     {
         "id": 1,
-        "picture": "/img/chef1.jpg",
+        "picture": "https://i.ibb.co/jL745VX/02.jpg",
         "name": "Giovanni Rossi",
         "experience": 12,
-        "numRecipes": 27,
-        "likes": 128,
+        "numRecipes": 3,
+        "likes": 4.5,
         "bio": "Chef Giovanni Rossi grew up in Naples, Italy, where he developed a love for traditional Italian cuisine...",
         "recipes": [
             {
+                "picture": "https://i.ibb.co/gtrP3D6/01.jpg",
                 "name": "Spaghetti Carbonara",
                 "ingredients": [
                     "spaghetti",
@@ -21,6 +22,7 @@
                 "rating": 4.5
             },
             {
+                "picture": "https://i.ibb.co/BjJN09R/18.jpg",
                 "name": "Pesto alla Genovese",
                 "ingredients": [
                     "basil leaves",
@@ -33,6 +35,7 @@
                 "rating": 4.8
             },
             {
+                "picture": "https://i.ibb.co/Wpgz6V4/17.jpg",
                 "name": "Osso Buco",
                 "ingredients": [
                     "veal shanks",
@@ -48,14 +51,15 @@
     },
     {
         "id": 2,
-        "picture": "/img/chef2.jpg",
+        "picture": "https://i.ibb.co/vzjWfXg/01.jpg",
         "name": "Maria Bianchi",
         "experience": 8,
-        "numRecipes": 16,
-        "likes": 84,
+        "numRecipes": 3,
+        "likes": 4.8,
         "bio": "Chef Maria Bianchi is originally from Tuscany, where she learned to cook from her grandmother...",
         "recipes": [
             {
+                "picture": "https://i.ibb.co/N2pMXDj/16.jpg",
                 "name": "Risotto alla Milanese",
                 "ingredients": [
                     "carnaroli rice",
@@ -68,6 +72,7 @@
                 "rating": 4.6
             },
             {
+                "picture": "https://i.ibb.co/ts9cd5R/15.jpg",
                 "name": "Bistecca alla Fiorentina",
                 "ingredients": [
                     "porterhouse steak",
@@ -80,6 +85,7 @@
                 "rating": 4.9
             },
             {
+                "picture": "https://i.ibb.co/G5w6n5V/14.jpg",
                 "name": "Panzanella",
                 "ingredients": [
                     "day-old bread",
@@ -95,14 +101,15 @@
     },
     {
         "id": 3,
-        "picture": "/img/chef3.jpg",
+        "picture": "https://i.ibb.co/RBRp6Fr/03.jpg",
         "name": "Antonio Russo",
         "experience": 10,
-        "numRecipes": 21,
-        "likes": 113,
+        "numRecipes": 3,
+        "likes": 4.7,
         "bio": "Chef Antonio Russo is from Naples, Italy, and has been cooking since he was a child...",
         "recipes": [
             {
+                "picture": "https://i.ibb.co/tM14XpW/08.jpg",
                 "name": "Margherita Pizza",
                 "ingredients": [
                     "pizza dough",
@@ -115,6 +122,7 @@
                 "rating": 4.8
             },
             {
+                "picture": "https://i.ibb.co/GsjJzP1/12.jpg",
                 "name": "Spaghetti Carbonara",
                 "ingredients": [
                     "spaghetti",
@@ -127,6 +135,7 @@
                 "rating": 4.7
             },
             {
+                "picture": "https://i.ibb.co/njB7Scj/11.jpg",
                 "name": "Osso Buco",
                 "ingredients": [
                     "veal shanks",
@@ -142,14 +151,15 @@
     },
     {
         "id": 4,
-        "picture": "/img/chef4.jpg",
+        "picture": "https://i.ibb.co/XSd9tXC/04.jpg",
         "name": "Lorenzo Rossi",
         "experience": 12,
-        "numRecipes": 17,
-        "likes": 98,
+        "numRecipes": 3,
+        "likes": 4.9,
         "bio": "Chef Lorenzo Rossi hails from Tuscany, Italy, and has been cooking for over a decade...",
         "recipes": [
             {
+                "picture": "https://i.ibb.co/bJx5jY6/10.jpg",
                 "name": "Pesto Sauce",
                 "ingredients": [
                     "basil",
@@ -162,6 +172,7 @@
                 "rating": 4.6
             },
             {
+                "picture": "https://i.ibb.co/y4NgVk3/09.jpg",
                 "name": "Lasagna",
                 "ingredients": [
                     "lasagna noodles",
@@ -174,6 +185,7 @@
                 "rating": 4.8
             },
             {
+                "picture": "https://i.ibb.co/tM14XpW/08.jpg",
                 "name": "Tiramisu",
                 "ingredients": [
                     "espresso",
@@ -189,14 +201,15 @@
     },
     {
         "id": 5,
-        "picture": "/img/chef5.jpg",
+        "picture": "https://i.ibb.co/JKMvt6N/05.jpg",
         "name": "Giulia Bianchi",
         "experience": 8,
-        "numRecipes": 12,
-        "likes": 72,
+        "numRecipes": 3,
+        "likes": 4.7,
         "bio": "Chef Giulia Bianchi comes from Naples, Italy, and has been cooking since she was a young girl...",
         "recipes": [
             {
+                "picture": "https://i.ibb.co/T2hvWLT/07.jpg",
                 "name": "Margherita Pizza",
                 "ingredients": [
                     "pizza dough",
@@ -209,6 +222,7 @@
                 "rating": 4.7
             },
             {
+                "picture": "https://i.ibb.co/QQb6MSF/06.jpg",
                 "name": "Risotto alla Milanese",
                 "ingredients": [
                     "arborio rice",
@@ -221,6 +235,7 @@
                 "rating": 4.5
             },
             {
+                "picture": "https://i.ibb.co/BcHqpgg/05.jpg",
                 "name": "Spaghetti Carbonara",
                 "ingredients": [
                     "spaghetti",
@@ -236,14 +251,15 @@
     },
     {
         "id": 6,
-        "picture": "/img/chef6.jpg",
+        "picture": "https://i.ibb.co/6BhvkMK/06.jpg",
         "name": "Giovanni Ricci",
         "experience": 15,
-        "numRecipes": 25,
-        "likes": 92,
+        "numRecipes": 3,
+        "likes": 4.9,
         "bio": "Chef Giovanni Ricci is from Florence, Italy, and has been cooking for over 15 years...",
         "recipes": [
             {
+                "picture": "https://i.ibb.co/cLLmmgt/04.jpg",
                 "name": "Tiramisu",
                 "ingredients": [
                     "ladyfingers",
@@ -256,6 +272,7 @@
                 "rating": 4.8
             },
             {
+                "picture": "https://i.ibb.co/WvDj1XL/03.jpg",
                 "name": "Pesto Sauce",
                 "ingredients": [
                     "fresh basil leaves",
@@ -268,6 +285,7 @@
                 "rating": 4.7
             },
             {
+                "picture": "https://i.ibb.co/D1tD99H/02.jpg",
                 "name": "Lasagna",
                 "ingredients": [
                     "lasagna noodles",
