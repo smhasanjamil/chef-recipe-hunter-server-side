@@ -1,0 +1,284 @@
+[
+    {
+        "id": 1,
+        "picture": "/img/chef1.jpg",
+        "name": "Giovanni Rossi",
+        "experience": 12,
+        "numRecipes": 27,
+        "likes": 128,
+        "bio": "Chef Giovanni Rossi grew up in Naples, Italy, where he developed a love for traditional Italian cuisine...",
+        "recipes": [
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "parmigiano reggiano",
+                    "black pepper"
+                ],
+                "method": "1. Cook the spaghetti in boiling salted water until al dente. 2. In a separate pan, cook the pancetta until crispy. 3. In a mixing bowl, whisk together the eggs, grated cheese, and black pepper. 4. Drain the spaghetti and add it to the pan with the pancetta. 5. Turn off the heat and pour in the egg mixture, stirring constantly. 6. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "name": "Pesto alla Genovese",
+                "ingredients": [
+                    "basil leaves",
+                    "pine nuts",
+                    "garlic",
+                    "parmigiano reggiano",
+                    "extra-virgin olive oil"
+                ],
+                "method": "1. Combine the basil, pine nuts, and garlic in a food processor and pulse until finely chopped. 2. Add the grated cheese and pulse again until well combined. 3. Slowly pour in the olive oil while pulsing, until the pesto reaches the desired consistency. 4. Serve with pasta or as a sauce for grilled meats or vegetables.",
+                "rating": 4.8
+            },
+            {
+                "name": "Osso Buco",
+                "ingredients": [
+                    "veal shanks",
+                    "onion",
+                    "carrots",
+                    "celery",
+                    "tomato paste"
+                ],
+                "method": "1. Preheat the oven to 350°F. 2. In a large dutch oven, heat some olive oil over medium-high heat. 3. Season the veal shanks with salt and pepper and brown them in the pot, working in batches if necessary. 4. Remove the shanks and set them aside. 5. Add the onion, carrots, and celery to the pot and cook until softened. 6. Stir in the tomato paste and cook for another minute. 7. Return the shanks to the pot and add enough beef broth to cover them. 8. Cover the pot and transfer it to the oven. 9. Bake for 2-3 hours, until the meat is tender and falling off the bone. 10. Serve with gremolata and a side of risotto.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "/img/chef2.jpg",
+        "name": "Maria Bianchi",
+        "experience": 8,
+        "numRecipes": 16,
+        "likes": 84,
+        "bio": "Chef Maria Bianchi is originally from Tuscany, where she learned to cook from her grandmother...",
+        "recipes": [
+            {
+                "name": "Risotto alla Milanese",
+                "ingredients": [
+                    "carnaroli rice",
+                    "saffron",
+                    "onion",
+                    "butter",
+                    "parmigiano reggiano"
+                ],
+                "method": "1. Heat some butter in a large pan over medium heat. 2. Add the chopped onion and cook until softened. 3. Add the rice and toast it for a few minutes. 4. Add the saffron and some hot water or broth to the pan, stirring constantly. 5. Keep adding more liquid, a ladleful at a time, until the rice is cooked al dente. 6. Stir in the grated cheese and serve hot.",
+                "rating": 4.6
+            },
+            {
+                "name": "Bistecca alla Fiorentina",
+                "ingredients": [
+                    "porterhouse steak",
+                    "rosemary",
+                    "garlic",
+                    "olive oil",
+                    "lemon"
+                ],
+                "method": "1. Preheat the grill to high heat. 2. Season the steak with salt, pepper, and chopped rosemary. 3. Grill the steak for 5-7 minutes per side, or until it reaches the desired doneness. 4. Remove the steak from the grill and let it rest for a few minutes. 5. Meanwhile, mix some minced garlic, olive oil, and lemon juice together in a small bowl. 6. Slice the steak and drizzle the garlic-lemon oil over it. 7. Serve with roasted potatoes or grilled vegetables.",
+                "rating": 4.9
+            },
+            {
+                "name": "Panzanella",
+                "ingredients": [
+                    "day-old bread",
+                    "tomatoes",
+                    "cucumbers",
+                    "red onion",
+                    "basil"
+                ],
+                "method": "1. Cut the bread into bite-sized pieces and toss them with some olive oil and salt. 2. Toast the bread in a preheated oven until crispy. 3. Cut the tomatoes and cucumbers into similar-sized pieces and add them to a bowl. 4. Slice the red onion thinly and add it to the bowl. 5. Tear some fresh basil leaves and add them to the bowl. 6. Add the toasted bread to the bowl and toss everything together. 7. Dress the salad with more olive oil, red wine vinegar, and salt to taste. 8. Let the salad sit for at least 10 minutes before serving, so the flavors can meld together.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "/img/chef3.jpg",
+        "name": "Antonio Russo",
+        "experience": 10,
+        "numRecipes": 21,
+        "likes": 113,
+        "bio": "Chef Antonio Russo is from Naples, Italy, and has been cooking since he was a child...",
+        "recipes": [
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "pizza dough",
+                    "tomato sauce",
+                    "mozzarella cheese",
+                    "fresh basil",
+                    "olive oil"
+                ],
+                "method": "1. Preheat the oven to 450°F. 2. Roll out the pizza dough on a floured surface until it is about 1/4-inch thick. 3. Spread the tomato sauce evenly over the dough, leaving a 1/2-inch border around the edges. 4. Sprinkle the mozzarella cheese over the sauce. 5. Bake the pizza in the preheated oven for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly. 6. Garnish the pizza with fresh basil leaves and a drizzle of olive oil before serving.",
+                "rating": 4.8
+            },
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "pecorino romano cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook the spaghetti in a large pot of boiling salted water until al dente. 2. Meanwhile, cook the bacon in a large skillet over medium heat until crispy. 3. In a small bowl, whisk together the eggs, grated cheese, and black pepper. 4. Drain the spaghetti and add it to the skillet with the bacon. 5. Remove the skillet from the heat and add the egg mixture to the spaghetti, tossing quickly to coat the pasta. 6. Serve the spaghetti carbonara hot, garnished with more grated cheese and black pepper.",
+                "rating": 4.7
+            },
+            {
+                "name": "Osso Buco",
+                "ingredients": [
+                    "veal shanks",
+                    "onion",
+                    "carrots",
+                    "celery",
+                    "garlic"
+                ],
+                "method": "1. Preheat the oven to 375°F. 2. Season the veal shanks with salt and pepper. 3. In a large Dutch oven or oven-safe pot, heat some olive oil over medium heat. 4. Brown the veal shanks on all sides, then remove them from the pot and set them aside. 5. Add the chopped onion, carrots, celery, and garlic to the pot and cook until softened. 6. Add some white wine to the pot and stir to scrape up any browned bits from the bottom. 7. Add some beef broth and canned tomatoes to the pot, along with some fresh thyme and bay leaves. 8. Return the veal shanks to the pot and spoon some of the sauce over them. 9. Cover the pot and bake it in the preheated oven for 2-3 hours, or until the veal is tender and falling off the bone. 10. Serve the osso buco hot, garnished with gremolata and accompanied by some creamy polenta or mashed potatoes.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "picture": "/img/chef4.jpg",
+        "name": "Lorenzo Rossi",
+        "experience": 12,
+        "numRecipes": 17,
+        "likes": 98,
+        "bio": "Chef Lorenzo Rossi hails from Tuscany, Italy, and has been cooking for over a decade...",
+        "recipes": [
+            {
+                "name": "Pesto Sauce",
+                "ingredients": [
+                    "basil",
+                    "pine nuts",
+                    "garlic",
+                    "olive oil",
+                    "parmesan cheese"
+                ],
+                "method": "1. Combine the basil, pine nuts, garlic, and parmesan cheese in a food processor. 2. Pulse until the ingredients are finely chopped. 3. With the food processor running, slowly pour in the olive oil until the sauce is smooth and creamy. 4. Season the pesto sauce with salt and black pepper to taste. 5. Use the pesto sauce immediately or store it in an airtight container in the refrigerator for up to a week.",
+                "rating": 4.6
+            },
+            {
+                "name": "Lasagna",
+                "ingredients": [
+                    "lasagna noodles",
+                    "ground beef",
+                    "tomato sauce",
+                    "ricotta cheese",
+                    "mozzarella cheese"
+                ],
+                "method": "1. Preheat the oven to 375°F. 2. Cook the lasagna noodles in a large pot of boiling salted water until al dente. 3. Meanwhile, brown the ground beef in a large skillet over medium heat. 4. Add the tomato sauce to the skillet and simmer for 10-15 minutes, until the sauce has thickened slightly. 5. In a separate bowl, mix together the ricotta cheese, some grated parmesan cheese, and a beaten egg. 6. To assemble the lasagna, spread some of the meat sauce in the bottom of a large baking dish. 7. Add a layer of cooked lasagna noodles, followed by a layer of the ricotta mixture and a layer of shredded mozzarella cheese. 8. Repeat the layers until all of the ingredients are used up. 9. Cover the lasagna with aluminum foil and bake in the preheated oven for 25 minutes. 10. Remove the foil and bake for an additional 25 minutes, until the cheese is golden brown and bubbly. 11. Let the lasagna cool for 10-15 minutes before serving.",
+                "rating": 4.8
+            },
+            {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "espresso",
+                    "ladyfingers",
+                    "mascarpone cheese",
+                    "whipping cream",
+                    "cocoa powder"
+                ],
+                "method": "1. Brew some espresso and let it cool to room temperature. 2. In a separate bowl, beat together the mascarpone cheese and whipping cream until the mixture is light and fluffy. 3. Dip the ladyfingers into the espresso, then arrange them in a single layer in a large baking dish. 4. Spread half of the mascarpone mixture over the ladyfingers. 5. Repeat the layers with the remaining ladyfingers and mascarpone mixture. 6. Dust the top of the tiramisu with cocoa powder. 7. Cover the tiramisu with plastic wrap and refrigerate for at least 2 hours before serving.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "picture": "/img/chef5.jpg",
+        "name": "Giulia Bianchi",
+        "experience": 8,
+        "numRecipes": 12,
+        "likes": 72,
+        "bio": "Chef Giulia Bianchi comes from Naples, Italy, and has been cooking since she was a young girl...",
+        "recipes": [
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "pizza dough",
+                    "tomato sauce",
+                    "mozzarella cheese",
+                    "fresh basil",
+                    "olive oil"
+                ],
+                "method": "1. Preheat the oven to 450°F. 2. Roll out the pizza dough to your desired thickness. 3. Spread the tomato sauce over the dough, leaving a small border around the edge. 4. Sprinkle the mozzarella cheese over the sauce. 5. Tear the fresh basil leaves into small pieces and sprinkle them over the cheese. 6. Drizzle some olive oil over the top of the pizza. 7. Bake the pizza in the preheated oven for 10-15 minutes, until the crust is golden brown and the cheese is melted and bubbly. 8. Remove the pizza from the oven and let it cool for a few minutes before slicing and serving.",
+                "rating": 4.7
+            },
+            {
+                "name": "Risotto alla Milanese",
+                "ingredients": [
+                    "arborio rice",
+                    "chicken broth",
+                    "saffron",
+                    "onion",
+                    "parmesan cheese"
+                ],
+                "method": "1. In a large pot, heat some olive oil over medium heat. 2. Add the chopped onion and sauté for a few minutes until it becomes translucent. 3. Add the arborio rice and toast for a minute or two, stirring constantly. 4. Add a ladleful of chicken broth and stir until the liquid is absorbed. 5. Repeat with another ladleful of broth, stirring constantly. 6. Continue adding broth one ladleful at a time, stirring constantly and allowing each addition to be absorbed before adding more. 7. After about 15-20 minutes, when the rice is cooked and creamy, add a pinch of saffron and stir until the risotto is evenly yellow. 8. Add some grated parmesan cheese and stir to combine. 9. Serve immediately.",
+                "rating": 4.5
+            },
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook the spaghetti in a large pot of boiling salted water until al dente. 2. Meanwhile, cook the pancetta in a large skillet over medium heat until it is crispy. 3. In a separate bowl, whisk together the eggs and some grated parmesan cheese. 4. Drain the spaghetti and add it to the skillet with the pancetta. 5. Remove the skillet from the heat and pour the egg mixture over the spaghetti, stirring quickly to coat the noodles. 6. The residual heat from the pasta and the skillet will cook the eggs, creating a creamy sauce. 7. Season the spaghetti carbonara with black pepper and additional parmesan cheese if desired. 8. Serve immediately.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "picture": "/img/chef6.jpg",
+        "name": "Giovanni Ricci",
+        "experience": 15,
+        "numRecipes": 25,
+        "likes": 92,
+        "bio": "Chef Giovanni Ricci is from Florence, Italy, and has been cooking for over 15 years...",
+        "recipes": [
+            {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "ladyfingers",
+                    "espresso",
+                    "marsala wine",
+                    "mascarpone cheese",
+                    "heavy cream"
+                ],
+                "method": "1. Brew some espresso and add some marsala wine. 2. In a separate bowl, whip together the mascarpone cheese and heavy cream until it is thick and fluffy. 3. Dip the ladyfingers in the espresso mixture and place them in the bottom of a dish. 4. Cover the ladyfingers with a layer of the mascarpone cream. 5. Repeat with another layer of ladyfingers and another layer of cream. 6. Cover the tiramisu with plastic wrap and chill in the refrigerator for at least 2 hours. 7. Dust the top with cocoa powder before serving.",
+                "rating": 4.8
+            },
+            {
+                "name": "Pesto Sauce",
+                "ingredients": [
+                    "fresh basil leaves",
+                    "garlic",
+                    "pine nuts",
+                    "parmesan cheese",
+                    "olive oil"
+                ],
+                "method": "1. In a food processor, pulse together the basil leaves, garlic, and pine nuts until they are finely chopped. 2. Add some grated parmesan cheese and pulse a few more times. 3. With the food processor running, slowly drizzle in some olive oil until the pesto is smooth and creamy. 4. Taste the pesto and add salt and pepper as needed. 5. Store the pesto in a jar in the refrigerator for up to a week.",
+                "rating": 4.7
+            },
+            {
+                "name": "Lasagna",
+                "ingredients": [
+                    "lasagna noodles",
+                    "ground beef",
+                    "tomato sauce",
+                    "ricotta cheese",
+                    "mozzarella cheese"
+                ],
+                "method": "1. Cook the lasagna noodles in a large pot of boiling salted water until al dente. 2. Meanwhile, brown the ground beef in a large skillet over medium heat. 3. Add the tomato sauce and simmer for a few minutes until the sauce has thickened. 4. In a separate bowl, mix together the ricotta cheese and some grated parmesan cheese. 5. Preheat the oven to 375°F. 6. Spread a layer of the meat sauce in the bottom of a baking dish. 7. Place a layer of cooked lasagna noodles on top of the meat sauce. 8. Spread a layer of the ricotta cheese mixture over the noodles. 9. Repeat with another layer of meat sauce, noodles, and ricotta cheese. 10. Top the lasagna with a layer of mozzarella cheese. 11. Cover the baking dish with foil and bake in the preheated oven for 25 minutes. 12. Remove the foil and bake for an additional 25 minutes, until the cheese is melted and bubbly. 13. Let the lasagna cool for a few minutes before slicing and serving.",
+                "rating": 4.6
+            }
+        ]
+    }
+]
